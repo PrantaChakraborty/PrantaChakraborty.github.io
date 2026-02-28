@@ -3,12 +3,12 @@ export const profile = {
   title: "Backend Software Engineer",
   intro:
     "Building scalable APIs, real-time IoT systems, and fast release pipelines with backend-focused engineering.",
-  email: "pranta.csebuet@gmail.com",
+  email: "pranta.cse.bubt@gmail.com",
   location: "Dhaka, Bangladesh",
   github: "https://github.com/PrantaChakraborty",
   linkedin: "https://www.linkedin.com/in/pranta-cb/",
   resumePath: "/resume.pdf",
-  contactFormAction: "https://formspree.io/f/your-form-id"
+  contactFormAction: "https://formspree.io/f/xgolqbrz"
 };
 
 export const skillLogos = [
