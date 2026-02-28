@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portfolio Site Builder"
+  short_description: "Build and deploy an Astro portfolio on GitHub Pages."
+  default_prompt: "Use $portfolio-astro-gh-pages to build or update a backend engineer Astro portfolio with top nav (home/projects/contact), concise project highlights, sample-style contact form, active nav state, downloadable resume PDF, and GitHub Pages deployment setup."
