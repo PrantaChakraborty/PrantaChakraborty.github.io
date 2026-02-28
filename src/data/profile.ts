@@ -33,7 +33,7 @@ export const projects = [
       "Used Celery + Redis to improve async throughput and responsiveness.",
       "Optimized CI/CD pipeline from 4 minutes to 40 seconds."
     ],
-    // techline: "Python, Django, DRF, AWS, Redis, Celery, Jenkins, MQTT, PostgreSQL"
+    techline: "Python, Django, DRF, AWS, Redis, Celery, Jenkins, MQTT, PostgreSQL"
   },
   {
     title: "Byduy Multi-Vendor",
@@ -45,6 +45,6 @@ export const projects = [
       "Built real-time chat using WebSockets.",
       "Applied Saga pattern for distributed transaction consistency."
     ],
-    // techline: "Python, Django, DRF, WebSockets, PostgreSQL, Microservices"
+    techline: "Python, Django, DRF, WebSockets, PostgreSQL, Microservices"
   }
 ];

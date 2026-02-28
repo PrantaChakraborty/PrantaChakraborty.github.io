@@ -37,7 +37,7 @@ Open the local URL shown in terminal (usually `http://localhost:4321`).
 npm run build
 ```
 
-Preview production build locally:
+Preview production build locall:y
 
 ```bash
 npm run preview
